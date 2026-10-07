@@ -9,7 +9,8 @@ built with cv2
 clone the repo, cd into it
 
 then:
-``` pip install opencv-python
+```
+pip install opencv-python
 ```
 
 and then your good to go! run with
